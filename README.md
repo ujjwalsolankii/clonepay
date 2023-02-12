@@ -2,7 +2,7 @@
 
 
 
-## Project 01  [Live link]()
+## Project 01  [Live link](https://paytm-clone-webapp.netlify.app/)
 - Skills Gained in this project
     - Learned about Tailwind css and various properties of tailwind css.
     - Learned to make cards and mediaquery for responviveness.
